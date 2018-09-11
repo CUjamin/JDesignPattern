@@ -1,0 +1,8 @@
+.git/
+
+.idea/
+logs/
+target/
+*.jar
+*.log
+*.iml
