@@ -1,9 +1,5 @@
 package cuj.jdesignpattern.decorator.v2;
 
-import cuj.jdesignpattern.decorator.v2.ConcreteComponent;
-import cuj.jdesignpattern.decorator.v2.ConcreteDecoratorA;
-import cuj.jdesignpattern.decorator.v2.ConcreteDecoratorB;
-
 /**
  * @Author: cujamin
  * @ProjectName: JDesignPattern

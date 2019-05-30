@@ -1,7 +1,5 @@
 package cuj.jdesignpattern.factory.v1;
 
-import cuj.jdesignpattern.simplefactory.Operation;
-import cuj.jdesignpattern.simplefactory.OperationAdd;
 
 /**
  * @Author: cujamin
@@ -9,9 +7,9 @@ import cuj.jdesignpattern.simplefactory.OperationAdd;
  * @Date: 2019/5/22 8:35 PM
  * @Description: ${description}
  */
-public class AddFactory implements IFactory {
+public class MulFactory implements IFactory {
     @Override
     public Operation createOperation() {
-        return new OperationAdd();
+        return new OperationMul();
     }
 }

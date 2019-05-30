@@ -1,7 +1,5 @@
 package cuj.jdesignpattern.factory.v1;
 
-import cuj.jdesignpattern.simplefactory.Operation;
-
 /**
  * @Author: cujamin
  * @ProjectName: JDesignPattern

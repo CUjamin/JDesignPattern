@@ -1,7 +1,5 @@
 package cuj.jdesignpattern.factory.leifeng;
 
-import cuj.jdesignpattern.factory.v1.IFactory;
-
 /**
  * @Author: cujamin
  * @ProjectName: JDesignPattern
