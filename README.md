@@ -10,3 +10,4 @@ practice of DesignPattern
 [工厂方法](https://github.com/CUjamin/JDesignPattern/blob/master/factory)   
 [原型模式](https://github.com/CUjamin/JDesignPattern/blob/master/prototype)    
 [模版方法](https://github.com/CUjamin/JDesignPattern/blob/master/templatemethod)    
+[外观方法](https://github.com/CUjamin/JDesignPattern/blob/master/facade)    

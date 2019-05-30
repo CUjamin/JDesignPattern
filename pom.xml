@@ -30,6 +30,7 @@
         <module>simplefactory</module>
         <module>strategy</module>
         <module>templatemethod</module>
+        <module>facade</module>
     </modules>
 
 
