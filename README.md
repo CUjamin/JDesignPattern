@@ -11,3 +11,4 @@ practice of DesignPattern
 [原型模式](https://github.com/CUjamin/JDesignPattern/blob/master/prototype)    
 [模版方法](https://github.com/CUjamin/JDesignPattern/blob/master/templatemethod)    
 [外观方法](https://github.com/CUjamin/JDesignPattern/blob/master/facade)    
+[建造者模式](https://github.com/CUjamin/JDesignPattern/blob/master/builder)
