@@ -12,3 +12,4 @@ practice of DesignPattern
 [模版方法](https://github.com/CUjamin/JDesignPattern/blob/master/templatemethod)    
 [外观方法](https://github.com/CUjamin/JDesignPattern/blob/master/facade)    
 [建造者模式](https://github.com/CUjamin/JDesignPattern/blob/master/builder)
+[观察者模式](https://github.com/CUjamin/JDesignPattern/blob/master/pub_sub)
