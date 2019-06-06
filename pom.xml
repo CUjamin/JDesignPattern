@@ -33,6 +33,7 @@
         <module>facade</module>
         <module>builder</module>
         <module>pub_sub</module>
+        <module>singleton</module>
     </modules>
 
 
