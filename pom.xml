@@ -35,6 +35,7 @@
         <module>pub_sub</module>
         <module>singleton</module>
         <module>state</module>
+        <module>adapter</module>
     </modules>
 
 
