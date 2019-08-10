@@ -16,7 +16,7 @@ practice of DesignPattern
 [抽象工厂]()    
 [状态模式](https://github.com/CUjamin/JDesignPattern/blob/master/state)    
 [适配器模式](https://github.com/CUjamin/JDesignPattern/blob/master/adapter)   
-[备忘录模式]()   
+[备忘录模式](https://github.com/CUjamin/JDesignPattern/blob/master/memento)   
 [组合模式]()    
 [迭代器模式]()   
 [单例模式](https://github.com/CUjamin/JDesignPattern/blob/master/singleton)     
